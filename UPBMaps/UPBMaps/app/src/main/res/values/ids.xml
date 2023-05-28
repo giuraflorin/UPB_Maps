@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView_profile_logo" type="id" />
+    <item name="textView_show_welcome" type="id" />
+    <item name="ic_profile" type="id" />
+    <item name="textView_show_full_name" type="id" />
+    <item name="divider_name" type="id" />
+    <item name="ic_email" type="id" />
+    <item name="textView_show_email" type="id" />
+    <item name="divider_email" type="id" />
+    <item name="ic_dob" type="id" />
+    <item name="textView_show_dob" type="id" />
+    <item name="divider_dob" type="id" />
+    <item name="ic_gender" type="id" />
+    <item name="textView_show_gender" type="id" />
+    <item name="divider_gender" type="id" />
+    <item name="ic_mobile" type="id" />
+    <item name="textView_show_mobile" type="id" />
+</resources>

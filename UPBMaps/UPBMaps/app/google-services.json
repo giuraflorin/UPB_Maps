@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673179436149",
+    "firebase_url": "https://upbmaps-default-rtdb.firebaseio.com",
+    "project_id": "upbmaps",
+    "storage_bucket": "upbmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673179436149:android:2fa6ee24ee3b1271dd243c",
+        "android_client_info": {
+          "package_name": "com.example.upbmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673179436149-urolb05nl2c6m07qr5mboh6sv0k9hcvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfa6HBZ2ebqj2knIwmuWZ6ZU41v8JXoE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673179436149-urolb05nl2c6m07qr5mboh6sv0k9hcvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
